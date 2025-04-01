@@ -3,11 +3,11 @@
 ---
 
 # 🚀 Sobre Mim  
-Olá! 👋 Sou **Kaique**, um engenheiro de software apaixonado por desenvolver aplicações robustas, escaláveis e de alto desempenho.  
+Olá! 👋 Sou **Kaique**, um desenvolver back-end em formação constante. 
 
-- 🌐 **Co-fundador & CEO** na [PlanBTech](https://planbtech.com.br) – Focado em entregar soluções tecnológicas **inovadoras**.  
-- 💻 **Especializado em:** Desenvolvimento backend, arquiteturas modernas e computação em nuvem.  
-- 🔥 Apaixonado por **boas práticas de engenharia de software**, otimização de desempenho e código limpo.  
+- 🌐 **
+- 💻 **Especializado em:** Desenvolvimento de sistemas.
+- 🔥 Apaixonado por **boas práticas**, otimização de desempenho e código limpo.  
 - 🤝 Sempre aberto para **colaborações**, novos desafios e compartilhar conhecimento com a comunidade dev.  
 
 ---
@@ -17,9 +17,6 @@ Olá! 👋 Sou **Kaique**, um engenheiro de software apaixonado por desenvolver 
 ### 🚀 Linguagens de Programação  
 Proficiente em várias linguagens, garantindo flexibilidade em diversos projetos e arquiteturas.  
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="Go" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
@@ -70,7 +67,7 @@ Interessado em colaborar ou apenas quer se conectar? Sinta-se à vontade para en
 
 📩 **Email:** [kaique.souza3101@gmail.com](mailto:kaique.souza3101@gmail.com)  
 💼 **LinkedIn:** [Kaique Aleixo](https://www.linkedin.com/in/ikajira/)  
-📌 **Website:** [https://joaogabrielvianna.com.br](https://joaogabrielvianna.com.br)  
+📌 **Website:** 
 
 ---
 
