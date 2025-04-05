@@ -1,74 +1,41 @@
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 
----
+<h2 align="center">Olá👋 Meu nome é Kaique, prazer!</h2>
 
-# 🚀 Sobre Mim  
-Olá! 👋 Sou **Kaique**, um desenvolver back-end em formação constante. 
+###
 
-- 🌐 **
-- 💻 **Especializado em:** Desenvolvimento de sistemas.
-- 🔥 Apaixonado por **boas práticas**, otimização de desempenho e código limpo.  
-- 🤝 Sempre aberto para **colaborações**, novos desafios e compartilhar conhecimento com a comunidade dev.  
+<h5 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de São Paulo.</h5>
 
----
+###
 
-## 🛠️ Tecnologias & Ferramentas  
+<h5 align="center">Amo aprender e me desafiar cada dia mais 🩷</h5>
 
-### 🚀 Linguagens de Programação  
-Proficiente em várias linguagens, garantindo flexibilidade em diversos projetos e arquiteturas.  
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
-</p>
+###
 
-### 🚀 Frameworks & Ferramentas de Desenvolvimento  
-Experiência prática com frameworks modernos e ferramentas essenciais para acelerar o desenvolvimento e a implantação.  
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="Spring" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luanaliriel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luanaliriel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 🚀 Computação em Nuvem & Bancos de Dados  
-Conhecimento avançado em infraestrutura de nuvem e gerenciamento de banco de dados para aplicações escaláveis.  
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="Firebase" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-</p>
+###
 
-### 🚀 Sistemas Operacionais & Sistemas Embarcados  
-Apaixonado por ambientes baseados em Linux e desenvolvimento de sistemas embarcados.  
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="40" alt="Arch Linux" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
 
-</br>
-</br>
-</br>
+###
 
-# 📊 Estatísticas do GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ikajira&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</p>
+<div align="center">
+  <a href="https://www.instagram.com/lualiriel/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://linkedin.com/in/luanaliriel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
----
-
-## 📫 Contato  
-Interessado em colaborar ou apenas quer se conectar? Sinta-se à vontade para entrar em contato!  
-
-📩 **Email:** [kaique.souza3101@gmail.com](mailto:kaique.souza3101@gmail.com)  
-💼 **LinkedIn:** [Kaique Aleixo](https://www.linkedin.com/in/ikajira/)  
-📌 **Website:** 
-
----
-
-🔥 *Vamos construir algo incrível juntos!* 🚀  
+###
