@@ -4,11 +4,11 @@
 
 ###
 
-<h5 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de São Paulo.</h5>
+<h5 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de São Paulo 🖥️.</h5>
 
 ###
 
-<h5 align="center">Amo aprender e me desafiar cada dia mais 🩷</h5>
+<h5 align="center">Amo aprender e me desafiar cada dia mais 🚀</h5>
 
 ###
 
