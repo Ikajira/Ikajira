@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com/demo/?color=BD0000&lines=Ol%C3%A1%2C+eu+sou+o+Kaique!" style="display: block; margin: 0 auto;">
+<img src="[https://readme-typing-svg.demolab.com/demo/?color=BD0000&lines=Ol%C3%A1%2C+eu+sou+o+Kaique!](https://github.com/Ikajira/Ikajira/issues/1#issue-3339133309)" style="display: block; margin: 0 auto;">
 
 <h2 align="center">Olá👋 Meu nome é Kaique, prazer!</h2>
 
