@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/4d6e84c2-6d08-403a-a057-18962cc94db6" style="display: block; margin: 0 auto;">
+<img src="https://readme-typing-svg.demolab.com/demo/?color=BD0000&lines=Ol%C3%A1%2C+eu+sou+o+Kaique!" style="display: block; margin: 0 auto;">
 
 <h2 align="center">Olá👋 Meu nome é Kaique, prazer!</h2>
 
