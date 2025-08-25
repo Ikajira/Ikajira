@@ -1,6 +1,4 @@
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Maria+Eduarda!+;I'm+18+years+old;I'm+from+Brazil;I'm+studying+Systems+Analysis+and+Development;Be+Welcome++:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&letterSpacing=&pause=1000&color=2264F7&center=true&vCenter=true&width=435&lines=Hy%2C+my+name+is+Kaique;I'm+from+Brasil;Be+welcome!;I'm+a+fullstack+developer)](https://git.io/typing-svg)
 
 
 <br/>
