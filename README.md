@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&letterSpacing=&pause=1000&color=2264F7&center=true&vCenter=true&width=1000&lines=Hy%2C+my+name+is+Kaique;I'm+from+Brasil;Be+welcome!;I'm+a+fullstack+developer)](https://git.io/typing-svg)
 
 <br/>
