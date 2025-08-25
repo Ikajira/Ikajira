@@ -1,20 +1,25 @@
 <img src="[https://readme-typing-svg.demolab.com/demo/?color=BD0000&lines=Ol%C3%A1%2C+eu+sou+o+Kaique!](https://github.com/Ikajira/Ikajira/issues/1#issue-3339133309)" style="display: block; margin: 0 auto;">
 
-<h2 align="center">Olá👋 Meu nome é Kaique, prazer!</h2>
+<h2 align="left">Olá👋 Meu nome é Kaique, prazer!</h2>
 
 ###
 
-<h5 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de São Paulo 🖥️.</h5>
+<h5 align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de São Paulo 🖥️.</h5>
 
 ###
 
-<h5 align="center">Amo aprender e me desafiar cada dia mais 🚀</h5>
+<h5 align="left">Amo aprender e me desafiar cada dia mais 🚀</h5>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ikajira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikajira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<br>
+
+<div align="left">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikajira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
