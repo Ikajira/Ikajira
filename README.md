@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ikajira&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=f06d22&text_color=DFDADA&bg_color=0d1117" alt="Maria Eduarda github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ikajira&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=f06d22&text_color=DFDADA&bg_color=0d1117" alt="Ikajra github stats" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikajira&layout=compact&hide_border=true&title_color=1E90FF&text_color=DFDADA&bg_color=0d1117" />
 </div>
