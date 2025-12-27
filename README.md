@@ -99,7 +99,4 @@ Sistema web com:
   <a href="https://github.com/Ikajira" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://instagram.com/ikajjra" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
 </div>
