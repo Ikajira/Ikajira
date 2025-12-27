@@ -20,33 +20,16 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ikajira&bg_color=0d1117&color=1E90FF&line=1E90FF&point=c7c7c7&area=true&hide_border=true&v=5)](https://github.com/Ikajira)
 
----
-
-## 👤 Quem sou eu
-
-Sou desenvolvedor com foco em **Back-end com Java e Spring Boot**, criação de **APIs REST**, integração com bancos de dados e boas práticas voltadas a performance, versionamento e arquitetura.
-
-Atualmente curso **Análise e Desenvolvimento de Sistemas na UNIP** e possuo formação técnica em **Informática para Internet pela ETEC**.
-
-Meu objetivo é atuar como **Desenvolvedor Júnior**, contribuindo em projetos reais e evoluindo continuamente em:
-
-🔹 qualidade de código  
-🔹 escalabilidade  
-🔹 solução de problemas  
-🔹 trabalho em equipe
-
----
-
-## 🎯 Objetivo Profissional
+## OBJETIVO
 
 > Atuar como Desenvolvedor Back-end / Full-stack Júnior com foco em  
 > **Java • Spring Boot • APIs REST • Integração com bancos de dados • MongoDB / MySQL**
 
 ---
 
-## 🚀 Projetos em Destaque
+## PROJETOS
 
-### 🦾 EYEGEN — Plataforma Web Acessível (Instituto PROA)
+### EYEGEN — Plataforma Web Acessível (Instituto PROA)
 
 Sistema integrado a óculos inteligente com:
 
@@ -63,7 +46,7 @@ Sistema integrado a óculos inteligente com:
 
 ---
 
-### 💼 PROFILE — Plataforma de Currículos Inteligentes
+### PROFILE — Plataforma de Currículos Inteligentes
 
 Sistema web com:
 
@@ -77,48 +60,9 @@ Sistema web com:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+## STACK TÉCNICA
 
-## 🎓 Formação
-
-🎓 **UNIP — Análise e Desenvolvimento de Sistemas (2025 — atual)**  
-🎓 **ETEC — Técnico em Informática para Internet (2021 — 2023)**
-
----
-
-## 🧾 Certificados & Cursos
-
-📌 **Instituto PROA — ProProfissão (440h) — Certificação Senac**  
-📌 **Fundação Bradesco — Modelagem de Dados**  
-📌 **Excel Avançado & Análise de Dados**
-
-> Caso queira, posso adicionar os links diretos para os certificados.  
-> Me envie os PDFs ou URLs e eu integro no README. 😉
-
----
-
-## 💼 Experiência
-
-**PolliPlast — Freelancer (2024)**  
-Atuação em:
-
-✔️ criação de artes digitais  
-✔️ organização logística  
-✔️ atendimento a demandas  
-✔️ cumprimento de prazos e metas
-
-Experiência que fortaleceu:
-
-🔹 disciplina  
-🔹 comunicação  
-🔹 responsabilidade  
-🔹 atenção a detalhes
-
----
-
-## 🧠 Stack Técnica
-
-### 🔧 Back-end
+### Back-end
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -126,14 +70,14 @@ Experiência que fortaleceu:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🌐 Front-end
+### Front-end
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🛠️ Ferramentas
+### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
