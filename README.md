@@ -35,7 +35,7 @@
 
 ---
 
-## Contato
+## CONTATO
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/aleixokai/" target="_blank">
