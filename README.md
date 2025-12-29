@@ -8,45 +8,6 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ikajira&bg_color=0d1117&color=1E90FF&line=1E90FF&point=c7c7c7&area=true&hide_border=true&v=5)](https://github.com/Ikajira)
 
-## OBJETIVO
-
-> Atuar como Desenvolvedor Back-end / Full-stack Júnior com foco em  
-> **Java • Spring Boot • APIs REST • Integração com bancos de dados • MongoDB / MySQL**
-
----
-
-## PROJETOS
-
-### EYEGEN — Plataforma Web Acessível (Instituto PROA)
-
-Sistema integrado a óculos inteligente com:
-
-✔️ reconhecimento de objetos e textos  
-✔️ retorno por áudio  
-✔️ acessibilidade para pessoas com deficiência visual
-
-**Tecnologias:**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### PROFILE — Plataforma de Currículos Inteligentes
-
-Sistema web com:
-
-✔️ personalização automática de currículos  
-✔️ uso de IA para adequação a vagas  
-✔️ geração dinâmica de perfis profissionais
-
-**Tecnologias:**
-
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ## STACK TÉCNICA
 
 ### Back-end
@@ -74,9 +35,9 @@ Sistema web com:
 
 ---
 
-## 📞 Conecte-se comigo
+## Contato
 
-<div align="center"> 
+<div align="left"> 
   <a href="https://www.linkedin.com/in/aleixokai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
