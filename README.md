@@ -6,7 +6,7 @@
 
 <br>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ikajira&bg_color=0d1117&color=1E90FF&line=1E90FF&point=c7c7c7&area=true&hide_border=true&v=5)](https://github.com/Ikajira)
+<!-- [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ikajira&bg_color=0d1117&color=1E90FF&line=1E90FF&point=c7c7c7&area=true&hide_border=true&v=5)](https://github.com/Ikajira) -->
 
 ## STACK TÉCNICA
 
